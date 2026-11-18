@@ -1,0 +1,16 @@
+[
+    {
+        "id": "STU001",
+        "name": "Arun",
+        "department": "CSE",
+        "email": "arun@gmail.com",
+        "marks": 85
+    },
+    {
+        "id": "STU002",
+        "name": "Priya",
+        "department": "IT",
+        "email": "priya@gmail.com",
+        "marks": 90
+    }
+]
